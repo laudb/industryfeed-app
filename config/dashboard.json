@@ -1,0 +1,23 @@
+{
+    "main": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "Contact",
+        "url": "/contact"
+      }
+    ],
+    "sidebar": [
+      {
+        "name": "Feed",
+        "menu": [
+          {
+            "text": "Quick Start",
+            "url": "#"
+          }
+        ]
+      }
+    ]
+  }

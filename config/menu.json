@@ -1,0 +1,28 @@
+{
+  "main": [
+    {
+      "name": "",
+      "url": "/"
+    }
+  ],
+  "footer": [
+    {
+      "name": "About",
+      "menu": [
+        {
+          "text": "",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Product",
+      "menu": [
+        {
+          "text": "Features",
+          "url": "#"
+        }
+      ]
+    }
+  ]
+}
