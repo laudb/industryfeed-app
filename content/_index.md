@@ -5,7 +5,7 @@ banner:
   image: /images/banner-art.svg
   button:
     label: "Register / Login"
-    link: "/contact"
+    link: ""
 
 # feature
 feature: 
@@ -30,5 +30,5 @@ call_to_action:
   button:
     enable: true
     label: "Check It Out"
-    link: "/contact"
+    link: ""
 ---

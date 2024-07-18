@@ -21,17 +21,7 @@ const RegularPages = ({ data }) => {
       noindex={noindex}
       canonical={canonical}
     >
-      {layout === "404" ? (
-        <NotFound data={data} />
-      ) : layout === "contact" ? (
-        <Contact data={data} />
-      ) : layout === "pricing" ? (
-        <Pricing data={data} />
-      ) : layout === "faq" ? (
-        <Faq data={data} />
-      ) : (
-        <Default data={data} />
-      )}
+      {layout === "404" ? ( <NotFound data={data} />) : layout === "contact" ? ( <Contact data={data} />) : ( <Default data={data} />)}
     </Base>
   );
 };
